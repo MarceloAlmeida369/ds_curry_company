@@ -40,7 +40,7 @@ st.markdown(
     - Visão Restaurante:
       - Indicadores semanais de crescimento dos restaurantes
     ### Ask for Help
-    - Desenvolvido duranto a capacitação Cientista de Dados by Marcelo
+    - Desenvolvido durante a capacitação Cientista de Dados by Marcelo
     """
 )
 
