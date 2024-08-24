@@ -1,7 +1,8 @@
 streamlit==1.24.0
 pandas==2.0.3
 numpy==1.25.1
-Pillow==10.0.0
+Pillow==9.5.0
+setuptools==65.5.0
 plotly==5.15.0
 haversine==2.8.0
 folium==0.14.0
